@@ -1,7 +1,7 @@
-                                             License
+                                               License
 
                              DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
-                                    Version 0.001, July 2017
+                                      Version 0.001, July 2017
 
                                    Copyright (C) 2017 Joao Berardo
 
